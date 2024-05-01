@@ -14,7 +14,7 @@
     display: grid;
     gap: 24px;
     padding-bottom: 10rem;
-    max-width: 1000px;
+    max-width: 1100px;
     margin-inline: auto;
     background-color: hsl(210, 46%, 95%);
   }
